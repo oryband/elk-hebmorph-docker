@@ -1,0 +1,10 @@
+{
+  "hebrew_indices": {
+    "template": "*",
+    "settings": {
+      "analysis.analyzer.default": {
+        "type": "hebrew"
+      }
+    }
+  }
+}
